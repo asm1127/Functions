@@ -1,0 +1,2 @@
+# Functions
+Masalalar yechimi
